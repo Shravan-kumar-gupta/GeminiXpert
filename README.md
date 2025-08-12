@@ -1,5 +1,6 @@
-# Gemini-Clone
+# GeminiXpert
 
+## Gemini-Clone
 A simple AI-powered chat assistant inspired by Google’s Gemini, built with modern web technologies.
 
 ## Features
