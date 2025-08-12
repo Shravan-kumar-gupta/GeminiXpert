@@ -23,4 +23,4 @@ A simple AI-powered chat assistant inspired by Google’s Gemini, built with mod
 
    ## Demo
 
-![Chat Window Screenshot](./src/screenshot/chat-window.png)
+![Chat Window Screenshot](./src/screenshot/image.png)
